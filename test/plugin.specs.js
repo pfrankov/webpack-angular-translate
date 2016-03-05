@@ -42,7 +42,8 @@ function webpackOptions(options) {
     "use strict";
     return deepExtend({
         output: {
-            path: path.join(__dirname, "dist")
+            path: path.join(__dirname, "dist"),
+            filename: "bundle.js"
         },
         module: {
             loaders: [
