@@ -1,4 +1,4 @@
-const RawSource = require('webpack/lib/RawSource'),
+const RawSource = require('webpack-sources/lib/RawSource'),
     extend = require('util')._extend;
 import { Plugin, Compiler, Compilation } from "webpack";
 

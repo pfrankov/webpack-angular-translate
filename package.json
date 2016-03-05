@@ -30,7 +30,8 @@
     "htmlparser2": "^3.9.0",
     "loader-utils": "^0.2.12",
     "source-map": "^0.5.3",
-    "webpack": "^1.12.14"
+    "webpack": "^2.1.0-beta",
+    "webpack-sources": "^0.1.1"
   },
   "devDependencies": {
     "chai": "^3.5.0",
