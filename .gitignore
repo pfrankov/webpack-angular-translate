@@ -2,4 +2,3 @@ node_modules/
 .idea
 test/dist
 example/dist
-dist
